@@ -1,9 +1,9 @@
-body {background-color:#17181A; text-align: justify ; font-size: 18px; }
-h1 {text-align: center; color: #C2A111;font-size: 50px}
-h3 {text-align: center; color:yellow; font-size: 50px;}
+body {background-color:rgb(0, 255, 76); text-align: justify ; font-size: 18px; }
+h1 {text-align: center; color: #000000;font-size: 50px}
+h3 {text-align: center; color:rgb(0, 0, 0); font-size: 50px;}
 
 p {color: white; font-size: 25px;}
-ul {border: #C2A111 solid 2px;}
+ul {border: #000000 solid 2px;}
 li {color: white; }
 img{width: 100%; border: yellow solid 7px;}
 b {color:yellow; font-size: 30px;}
